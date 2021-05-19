@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="poster_view">Poster View</string>
+    <string name="image_dark_background">Image dark background</string>
+    <string name="image_star">Image star</string>
+    <string name="rate">Rate</string>
+    <string name="title">Title</string>
+</resources>

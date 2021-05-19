@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+
+    <!--Type-->
+    <string name="tvshow">Tvshow</string>
+    <string name="movie">Movie</string>
+
+    <!--Content Description-->
+    <string name="welcome">Welcome</string>
+    <string name="poster_view">Poster View</string>
+    <string name="image_dark_background">Image dark background</string>
+    <string name="title">Title</string>
+    <string name="image_star">Image star</string>
+    <string name="rate">Rate</string>
+    <string name="poster_cover">Poster cover</string>
+    <string name="poster">Poster</string>
+    <string name="image_action_back">Image action back</string>
+    <string name="year">Year</string>
+    <string name="member">Member</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="trailer">Trailer</string>
+    <string name="image_action_share">Image action share</string>
+    <string name="image_favorite">Image favorite</string>
+
+    <!-- Dialog Purpose -->
+    <string name="ok">OK</string>
+    <string name="error">ERROR</string>
+    <string name="no">No</string>
+    <string name="success">SUCCESS</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="check_internet">Check Your Internet Connection</string>
+    <string name="message_favorite">Do you want to add %s to your favorite ?</string>
+    <string name="message_unfavorite">Do you want to unfavorite %s  ?</string>
+    <string name="success_favorite">Successfully add %s to your favorite</string>
+    <string name="success_unfavorite">Successfully unfavorite %s</string>
+
+    <!-- Favorite Purpose -->
+    <string name="favorite">Favorite</string>
+    <string name="empty_favorite_user">There\'s no favorite movie</string>
+    <string name="no_favorite">No favorite</string>
+    <string name="no_favorite_tvshow">There\'s no favorite TvShow</string>
+
+    <!-- Search Purpose -->
+    <string name="search_hint">Serenity</string>
+    <string name="not_found_search">Search not found</string>
+    <string name="title_favorite">favorite</string>
+
+</resources>
