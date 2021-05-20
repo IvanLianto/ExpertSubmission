@@ -8,10 +8,4 @@
     <dimen name="medium_space">8dp</dimen>
     <dimen name="big_space">10dp</dimen>
     <dimen name="huge_space">16dp</dimen>
-    <dimen name="little_huge_space">14dp</dimen>
-    <!-- Text Dimension -->
-    <dimen name="default_text_size">10sp</dimen>
-    <dimen name="small_text_size">12sp</dimen>
-    <dimen name="medium_text_size">14sp</dimen>
-    <dimen name="big_text_size">16sp</dimen>
 </resources>

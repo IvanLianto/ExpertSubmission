@@ -53,8 +53,6 @@ class LocalDataSource(private val contentDao: ContentDao) {
     companion object {
         private var INSTANCE: LocalDataSource? = null
 
-        fun getInstance(contentDao: ContentDao): LocalDataSource =
-            INSTANCE ?: LocalDataSource(contentDao)
     }
 
 }

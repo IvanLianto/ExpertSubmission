@@ -5,6 +5,7 @@ plugins {
 }
 
 apply from: '../shared_dependencies.gradle'
+apply plugin: 'com.squareup.leakcanary.deobfuscation'
 
 android {
     compileSdkVersion 30

@@ -7,6 +7,7 @@ dependencies {
     androidTestImplementation "androidx.test.ext:junit:$junitExtversion"
     androidTestImplementation "androidx.test.espresso:espresso-core:$espressoVersion"
     androidTestImplementation 'androidx.annotation:annotation:1.1.0'
+    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.4'
     implementation "androidx.multidex:multidex:$multidexVersion"
 
     implementation "androidx.cardview:cardview:$cardviewVersion"

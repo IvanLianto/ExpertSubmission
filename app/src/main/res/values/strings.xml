@@ -44,6 +44,5 @@
     <!-- Search Purpose -->
     <string name="search_hint">Serenity</string>
     <string name="not_found_search">Search not found</string>
-    <string name="title_favorite">favorite</string>
 
 </resources>
